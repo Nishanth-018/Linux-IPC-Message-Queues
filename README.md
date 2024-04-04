@@ -20,9 +20,6 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-### DEVELOPED BY : NISHANTH J
-### REG NO : 212223100040
-
 ## C program that receives a message from message queue and display them
 Write.c
 ```
